@@ -1,5 +1,5 @@
-# jumplink-october-boilerplate
-Bootstrap 4 Boilerplate for OctoberCMS
+# freifunk-october-theme
+Bootstrap 4 Freifunk Theme for OctoberCMS
 
 ## Bootstrap 4
 To make it possible to use Bootstrap 4 Sass files directly we have create a fork of Bootstrap 4 called [Bootstrap 4 Backward](https://github.com/JumpLinkNetwork/bootstrap-backward).
@@ -25,4 +25,4 @@ npm run theme_settings
 ```
 
 ## See also
- * [Bootstrap 4 Boilerplate for Shopify](https://github.com/JumpLinkNetwork/jumplink-shopify-boilerplate)
+ * [Bootstrap 4 Boilerplate for OctoberCMS](https://github.com/JumpLinkNetwork/jumplink-october-boilerplate)
